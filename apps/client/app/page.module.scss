@@ -1,2 +1,6 @@
 .page {
+  @apply text-gray-600 text-center;
+  > h1 {
+    @apply text-5xl font-bold;
+  }
 }
